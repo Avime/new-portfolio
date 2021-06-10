@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'josefin-regular';
+    src: url('../font/JosefinSans-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'josefin-bold';
+    src: url('../font/JosefinSans-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+/*********************************************/
+body {
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'josefin-regular';
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 {
+    font-size: 20px;
+    color: #293FC6;
+    
+}
+
+header h2 {
+    color: #293FC6;
+    font-size: 20px;
+}
+
+header div {
+    position: absolute;
+    width: 10px;
+    height: 30px;
+    top: 0;
+    left: 40%;
+    background-color: #293FC6;
+}
+
+h3 {
+    font-size: 30px;
+    color: #293FC6;
+    margin-top: 0;
+}
+
+span {
+    color: #293FC6;
+    font-size: 16px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.page {
+    margin-top: 150px;
+    display: flex;
+}
+
+.page-left {
+    position: fixed;
+    width: 40%;   
+}
+
+.page-right {
+    width: 50%;
+    margin-left: 50%;
+}
+
+.page-right .projet{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page-right .projet .projet-type {
+    width: 30%;
+    margin: 0 5% 5% 0;
+}
+
+.page-right .projet .projet-type:nth-child(3n) {
+    margin-right: 0;
+}
+
+.page-right .projet .projet-type .projet-image {
+    width: 100%;
+    height: 200px;
+    border: 1px solid #293FC6;
+}
+
+.page-right .projet .projet-type a {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.page-right .projet .projet-type a p {
+    margin: 10px 0;
+    color: #293FC6;
+}
+
+.page-right .projet .projet-type a img {
+    width: 20px;
+    height: auto;
+}
+
+.page-right .projet-type-open img {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 10px;
+}
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+    color: #293FC6;
+}
+
+footer div a:first-of-type{
+    margin-right: 10px;
+}

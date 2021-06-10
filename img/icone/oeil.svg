@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.265" height="52.635" viewBox="0 0 54.265 52.635">
+  <g id="oeil" transform="translate(-834.439 -2377.418)">
+    <path id="Tracé_5" data-name="Tracé 5" d="M830,2466.3s7.529-11.013,25.1-11.013,25.03,11.013,25.03,11.013" transform="translate(6.509 -59.397)" fill="none" stroke="#e18d98" stroke-width="5"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(853.867 2405.1)" fill="#e18d98" stroke="#e18d98" stroke-width="5">
+      <ellipse cx="7.768" cy="7.267" rx="7.768" ry="7.267" stroke="none"/>
+      <ellipse cx="7.768" cy="7.267" rx="5.268" ry="4.767" fill="none"/>
+    </g>
+    <path id="Tracé_6" data-name="Tracé 6" d="M0,11.013S7.529,0,25.1,0s25.03,11.013,25.03,11.013" transform="translate(886.635 2427.554) rotate(180)" fill="none" stroke="#e18d98" stroke-width="5"/>
+    <path id="Tracé_7" data-name="Tracé 7" d="M905.465,2378.085l2.79,11.6" transform="translate(-52.549 0.31)" fill="none" stroke="#e18d98" stroke-width="5"/>
+    <path id="Tracé_10" data-name="Tracé 10" d="M0,0,2.79,11.6" transform="matrix(0.829, 0.559, -0.559, 0.829, 871.489, 2379.262)" fill="none" stroke="#e18d98" stroke-width="5"/>
+    <path id="Tracé_8" data-name="Tracé 8" d="M0,0,2.683,9.056" transform="translate(838.898 2385.479) rotate(-16)" fill="none" stroke="#e18d98" stroke-width="5"/>
+    <path id="Tracé_9" data-name="Tracé 9" d="M0,0,2.683,9.056" transform="matrix(0.719, 0.695, -0.695, 0.719, 882.687, 2385.273)" fill="none" stroke="#e18d98" stroke-width="5"/>
+  </g>
+</svg>
