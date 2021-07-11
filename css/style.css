@@ -147,16 +147,19 @@ button {
     display: flex;
     justify-content: space-between;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .page-right .projet .projet-type a p {
     margin: 10px 0;
     color: #293FC6;
+    cursor: pointer;
 }
 
 .page-right .projet .projet-type a img {
     width: 20px;
     height: auto;
+    cursor: pointer;
 }
 
 .page-right .projet-type-open img {
@@ -172,7 +175,11 @@ footer {
     align-items: center;
     justify-content: space-between;
     width: 36%;
+}
+
+footer a {
     color: #293FC6;
+    margin: 20px 0;
 }
 
 footer div a:first-of-type{
